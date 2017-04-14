@@ -1,0 +1,725 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14066541,53.25724222 ]
+    },
+    "properties": {
+    "Location":"Kilbogget Park",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13988221,53.25761448 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"2",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1392653,53.25784232 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"3",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13909364,53.25709781 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"4",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14013433,53.2566742 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"5",
+    "Size":"SGG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1381495,53.25659718 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"6",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13876104,53.25623775 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"7",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13971591,53.25605162 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"8",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14180535,53.25566651 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"9",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14245445,53.25857719 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"10",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14394039,53.25967787 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"11",
+    "Size":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14033014,53.26050256 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"A",
+    "Size":"SNR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1420092,53.25988324 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"B",
+    "Size":"JNR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13846868,53.2584007 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"Mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14451438,53.26029719 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"Full"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13893002,53.25437638 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"12",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13821656,53.25368637 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"13",
+    "Size":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13465995,53.25181525 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"14",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13614053,53.25253097 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"Mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13725632,53.25279094 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"Full"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11720145,53.22484031 ]
+    },
+    "properties": {
+    "Location":"Shanganagh Park",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11805439,53.22447419 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"2",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11886978,53.22417551 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"3",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.12123549,53.22292939 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"GAA A",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11990511,53.22336618 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"GAA B",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11767352,53.22319917 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"Mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11370116,53.24146007 ]
+    },
+    "properties": {
+    "Location":"Shanganagh Cliffs",
+    "Number":"Soccer",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11324519,53.24048412 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"GAA",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.17649704,53.29586578 ]
+    },
+    "properties": {
+    "Location":"Rockfield Park(NTPL)",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.17667943,53.29517323 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"2",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.17427617,53.29586258 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"Rugby",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.15227669,53.28703173 ]
+    },
+    "properties": {
+    "Location":"Dunedin (jun)",
+    "Number":"1",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1583358,53.28572971 ]
+    },
+    "properties": {
+    "Location":"Soldiers & Sailors",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.16045743,53.27550463 ]
+    },
+    "properties": {
+    "Location":"Meadowvale",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.15985125,53.27467061 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"2",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.15923837,53.27402744 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"3",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.15801662,53.27320461 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"GAA",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.17212906,53.28258515 ]
+    },
+    "properties": {
+    "Location":"Holly Park",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.17125735,53.28188437 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"2",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14929408,53.27554954 ]
+    },
+    "properties": {
+    "Location":"Sallynoggin",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14641875,53.27349012 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"2",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14487916,53.27362806 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"3",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14674062,53.2755335 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"4",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14471555,53.27492082 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"5",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14417374,53.27306026 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"6",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14383042,53.27277154 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"7",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14350855,53.27254057 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"8",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14477187,53.27241225 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"9",
+    "Size":"SSG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1445412,53.27416377 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14432126,53.27396809 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14410669,53.27379166 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11062199,53.28024221 ]
+    },
+    "properties": {
+    "Location":"Hyde Park",
+    "Number":"1",
+    "Size":" Snr "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.11247808,53.28018127 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":" GAA ",
+    "Size":" Snr "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.10963494,53.28016844 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"All weather",
+    "Size":"Mini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.12187922,53.28495362 ]
+    },
+    "properties": {
+    "Location":"Hundson Road",
+    "Number":"Location of future pitchs",
+    "Size":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13670915,53.27065745 ]
+    },
+    "properties": {
+    "Location":"Thomastown Road",
+    "Number":"A ",
+    "Size":"JNR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13538414,53.27142097 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"B",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1253956,53.2441759 ]
+    },
+    "properties": {
+    "Location":"Loughlinstown Park",
+    "Number":"1",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.12573892,53.24354671 ]
+    },
+    "properties": {
+    "Location":"",
+    "Number":"A",
+    "Size":"Snr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.17332131,53.28626528 ]
+    },
+    "properties": {
+    "Location":"Mount Albany",
+    "Number":"",
+    "Size":""
+    }
+  }
+]
+}
